@@ -26,7 +26,7 @@ module.exports = {
       resolve: `gatsby-source-wordpress`,
       options: {
         // the only required plugin option for WordPress is the GraphQL url.
-        url: `https://dev-lelinta.pantheonsite.io/graphql`,
+        url: `https://dev-tailong.pantheonsite.io/graphql`,
       },
     },
 
